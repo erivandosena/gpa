@@ -1,2 +1,4 @@
-# gpa
-Sistema de Gerenciamento de Planos Funerários
+# GPA
+Gerenciamento de Planos Assitenciais
+
+![GPA](database/docs/gpa-logo.jpg)
